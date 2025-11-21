@@ -1,7 +1,5 @@
 # Camera
 persist.vendor.media.recorder.flip    u:object_r:vendor_camera_prop:s0
-ro.vendor.camera.res.fmq.size         u:object_r:vendor_camera_prop:s0
-ro.vendor.camera.req.fmq.size         u:object_r:vendor_camera_prop:s0
 vendor.camera.coming.cts              u:object_r:vendor_camera_prop:s0
 
 # Radio
